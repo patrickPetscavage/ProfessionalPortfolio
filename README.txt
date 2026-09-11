@@ -1,0 +1,1 @@
+Extract the full folder, then open index.html. For Chrome: right-click index.html, Open with, Google Chrome. Night mode is available in the navigation on every page and remembers your choice when browser storage is available.

@@ -1,0 +1,1 @@
+(()=>{let t='light';try{t=localStorage.getItem('pp-theme')==='dark'?'dark':'light'}catch{}document.documentElement.dataset.theme=t;})();
